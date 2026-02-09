@@ -1,0 +1,15 @@
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Local keys and secrets
+*.pem
+*.ppk
+*.csv
+.aws/
+.env
+
+# Build artifacts
+target/
+*.war
